@@ -35,32 +35,32 @@ A testimonial carousel section: <br/>
 <br />
 <br />
 Success Formula section with animations on hover: <br/>
-<img src="https://i.ibb.co/KN61WQ1/loginerr.png" height="80%" width="80%" alt="Log in"/>
+<img src="https://i.ibb.co/fSMyJNr/05-min.gif" height="80%" width="80%" alt="Log in"/>
 <br />
 <br />
 The Curriculum section - where you can see all the modules that are taught on this academy:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Modules"/>
 <br />
 <br />
 </p>
 </p>
 
 The page also has a section where you can learn about the preactical projects that are made on this academy, as well as who the lecturers are, the pricing:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/YPC83H0/07-min.gif" height="80%" width="80%" alt="Landing Page"/>
 <br />
 <br />
 </p>
 </p>
 
 The page also contains a calculator for ROI, that allows the user to calculate how much months would it take to return the investment on the academy:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Calculator"/>
 <br />
 <br />
 </p>
 </p>
 
 The page ends with a fully functional registration form, and the footer section:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/TRq23mq/09-min.gif" height="80%" width="80%" alt="Register"/>
 <br />
 <br />
 </p>
