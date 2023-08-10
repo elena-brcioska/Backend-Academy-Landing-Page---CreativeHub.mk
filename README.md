@@ -45,7 +45,7 @@ The Curriculum section - where you can see all the modules that are taught on th
 </p>
 </p>
 
-The page also has a section where you can learn about the preactical projects that are made on this academy, as well as who the lecturers are, the pricing:  <br/>
+The page also has a section where you can learn about the preactical projects that are made on this academy, as well as who the lecturers are, and the pricing:  <br/>
 <img src="https://i.ibb.co/YPC83H0/07-min.gif" height="80%" width="80%" alt="Landing Page"/>
 <br />
 <br />
