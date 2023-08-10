@@ -19,6 +19,10 @@ The webpage is made responsive for all viewports
 - <b>GlideJs</b> 
 
 <h2>Website walk-through:</h2>
+*** Some images are gifs. If they don't autoplay - click on the image to open it in a new tab.
+<br />
+<br />
+<br />
 
 <p align="center">
 This is the hero section - featuring the name of the academy, a description, a photo of the students and a button that scrolls to the register form: <br/>
@@ -31,39 +35,34 @@ An infographic representing the careers you could pursue after graduating from t
 <br />
 <br />
 A testimonial carousel section: <br/>
-<img src="https://i.ibb.co/HDLzHmt/login.png" height="80%" width="80%" alt="Log in"/>
+<img src="https://i.ibb.co/L5WLqn8/testimonials.png" height="80%" width="80%" alt="Log in"/>
 <br />
 <br />
 Success Formula section with animations on hover: <br/>
 <img src="https://i.ibb.co/fSMyJNr/05-min.gif" height="80%" width="80%" alt="Log in"/>
 <br />
 <br />
-The Curriculum section - where you can see all the modules that are taught on this academy:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Modules"/>
+The Curriculum section - where you can see all the modules that are taught on this academy. Each module card is animated, and revealed on scroll using vanilla javascript:  <br/>
+<img src="https://i.ibb.co/Xt65L9G/modules.png" height="80%" width="80%" alt="Modules"/>
 <br />
 <br />
-</p>
-</p>
 
-The page also has a section where you can learn about the preactical projects that are made on this academy, as well as who the lecturers are, and the pricing:  <br/>
-<img src="https://i.ibb.co/YPC83H0/07-min.gif" height="80%" width="80%" alt="Landing Page"/>
+The page also has a section where you can learn about who the lecturers are, as well as the pricing. The lecturers section is animated on scroll, using the AOS library, and on click leads to each of the experts' LinkedIn profile:  <br/>
+<img src="https://i.ibb.co/61GF5KN/experts.png" height="80%" width="80%" alt="Experts"/>
+<img src="https://i.ibb.co/YdMTMCb/pricing.png" height="80%" width="80%" alt="Pricing"/>
 <br />
 <br />
-</p>
-</p>
+
 
 The page also contains a calculator for ROI, that allows the user to calculate how much months would it take to return the investment on the academy:  <br/>
-<img src="https://i.ibb.co/Vw5RkNN/shop.png" height="80%" width="80%" alt="Calculator"/>
+<img src="https://i.ibb.co/4pSFh5G/08.gif" height="80%" width="80%" alt="Calculator"/>
 <br />
 <br />
-</p>
-</p>
 
 The page ends with a fully functional registration form, and the footer section:  <br/>
 <img src="https://i.ibb.co/TRq23mq/09-min.gif" height="80%" width="80%" alt="Register"/>
 <br />
 <br />
-</p>
 </p>
 
 
