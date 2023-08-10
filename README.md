@@ -42,10 +42,13 @@ Success Formula section with animations on hover: <br/>
 <img src="https://i.ibb.co/fSMyJNr/05-min.gif" height="80%" width="80%" alt="Log in"/>
 <br />
 <br />
+
+
 The Curriculum section - where you can see all the modules that are taught on this academy. Each module card is animated, and revealed on scroll using vanilla javascript:  <br/>
 <img src="https://i.ibb.co/Xt65L9G/modules.png" height="80%" width="80%" alt="Modules"/>
 <br />
 <br />
+
 
 The page also has a section where you can learn about who the lecturers are, as well as the pricing. The lecturers section is animated on scroll, using the AOS library, and on click leads to each of the experts' LinkedIn profile:  <br/>
 <img src="https://i.ibb.co/61GF5KN/experts.png" height="80%" width="80%" alt="Experts"/>
@@ -65,13 +68,3 @@ The page ends with a fully functional registration form, and the footer section:
 <br />
 </p>
 
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
